@@ -40,6 +40,6 @@ Controle de versões e colaboração em equipe utilizando Git.
 
 ---
 
-### 🔗 **Portfólio**: [meuportfólio.com](https://laisschmidt.vercel.app)
+### 🔗 [**Meu Portfólio**](https://laisschmidt.vercel.app)
 
 Sempre em busca de novos desafios e aprendizados, espero contribuir para grandes projetos!
