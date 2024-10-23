@@ -37,6 +37,7 @@ Desenvolvimento de APIs com **Express.js** e gerenciamento de estado com **Redux
 
 ### ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 Controle de versões e colaboração em equipe utilizando Git.
+
 ---
 
 ### 🔗 **Portfólio**: [meuportfólio.com](https://laisschmidt.vercel.app)
