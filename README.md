@@ -1,45 +1,105 @@
-# Olá, eu sou Laís Schmidt! 👋
+# Olá, eu sou Laís Schmidt! 👩‍💻
 
-Sou desenvolvedora backend com experiência em diversas tecnologias e foco em construir soluções eficientes e escaláveis. Apaixonada por aprender e aplicar boas práticas no desenvolvimento de software.
+### 🔐 Cybersecurity | Information Security | Technology
 
----
+Sou profissional de **Cibersegurança**, com formação em Análise e Desenvolvimento de Sistemas e conhecimentos em proteção de sistemas, análise de vulnerabilidades e segurança da informação.
 
-### 📞 **Entre em contato comigo:**
+Minha trajetória combina conhecimentos de desenvolvimento de software com o interesse em segurança cibernética, permitindo compreender sistemas tanto pela perspectiva de construção quanto pela de proteção.
 
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/+5551981880811)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:laisschmidt@outlook.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laisschmidt)
+Tenho interesse em desafios relacionados à identificação de vulnerabilidades, proteção de aplicações, segurança de dados e desenvolvimento de soluções mais seguras.
 
 ---
 
-## Minhas Linguagens e Tecnologias:
+## 🔐 Áreas de Conhecimento e Interesse
 
-### ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Golang](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
-Desenvolvimento de scripts e aplicações backend eficientes e bem documentadas.
-
-### ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-Modelagem e gerenciamento de bancos de dados relacionais e não relacionais.
-
-### ![API](https://img.shields.io/badge/-APIs%20RESTful-000000?style=flat&logo=api&logoColor=white)
-Criação e manutenção de APIs, garantindo comunicação eficaz entre sistemas.
-
-### ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-Implementação de soluções em nuvem com serviços da AWS.
-
-### ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-Gerenciamento de containers e orquestração de aplicações escaláveis.
-
-### ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-Desenvolvimento de componentes de segurança e performance.
-
-### ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white) ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)
-Desenvolvimento de APIs com **Express.js** e gerenciamento de estado com **Redux**.
-
-### ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-Controle de versões e colaboração em equipe utilizando Git.
+- Segurança da Informação (Information Security)
+- Cibersegurança (Cybersecurity)
+- Análise de Vulnerabilidades
+- Proteção de Sistemas e Aplicações
+- Segurança de Aplicações (Application Security)
+- Autenticação e Autorização
+- Segurança de Dados
+- Desenvolvimento Seguro (Secure Coding)
+- Análise e Resolução de Problemas
 
 ---
 
-### 🔗 [**Meu Portfólio**](https://laisschmidt.vercel.app)
+## 💻 Linguagens e Tecnologias
 
-Sempre em busca de novos desafios e aprendizados, espero contribuir para grandes projetos!
+### Linguagens de Programação
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+### Bancos de Dados
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=databricks&logoColor=white)
+
+### Desenvolvimento e Integração
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge)
+
+### Ferramentas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+---
+
+## 🎓 Formação e Capacitação
+
+- **Análise e Desenvolvimento de Sistemas** — Descomplica (2025).
+- **The Complete Cyber Security Course** — Nathan House / Udemy (2024).
+- **Cyber Academy 2024** — FEBRABAN Cyber Lab.
+- **100 Days of Code: Python Pro Bootcamp** — Udemy.
+
+---
+
+## 🛠️ Experiência Profissional
+
+**Desenvolvimento Backend — Grupo.con**
+
+- Participação no desenvolvimento de sistemas para gestão de clínicas, plataformas de orientação profissional e aplicações financeiras.
+- Desenvolvimento de funcionalidades e integração entre sistemas.
+- Experiência com aplicações que trabalham com informações e dados de usuários.
+
+**Desenvolvimento Backend Freelancer — GetNinjas**
+
+- Implementação de autenticação e autorização utilizando Firebase Authentication.
+- Desenvolvimento de soluções para sistemas com mais de 1.000 usuários.
+- Colaboração em projetos de software para empresas do setor de saúde.
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=laisschmidt&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=laisschmidt&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 📫 Entre em contato
+
+Estou sempre aberta a compartilhar conhecimentos, colaborar em projetos e explorar novas oportunidades na área de tecnologia e cibersegurança.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laisschmidt)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laisschmidt@outlook.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5551981880811)
+
+---
+
+<div align="center">
+
+*"Security is not a product, but a continuous process."* 🔐
+
+</div>
