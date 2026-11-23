@@ -1,35 +1,42 @@
 ### `~ $ whoami`
 
 ```text
-laís schmidt — a programmer and a cybersecurity professional to @grupoconcode
-site        linkedin.com/in/laisschmidt
+laís schmidt — cybersecurity professional & programmer
+role        cybersecurity | software development
+company     @grupoconcode
+linkedin    linkedin.com/in/laisschmidt
 ```
 
 ### `~ $ ls projects --sort=stars`
 
-<table>
-<thead><tr><th align="left">Project</th><th align="left">About</th><th align="right">★</th></tr></thead>
-<tbody>
-<tr><td align="left"><a href="https://github.com/Sasharya/Lais-Schmidt">Lais-Schmidt</a></td><td align="left">Esta plataforma foi criada para fornecer uma visão sobre meu histórico profissional, habilidades e experiências. Explore para saber mais sobre minhas capacidades e como posso contribuir para seus projetos</td><td align="right">0</td></tr>
-<tr><td align="left"><a href="https://github.com/Sasharya/Lockdown">Lockdown</a></td><td align="left">Site para apresentar uma plataforma de cibersegurança. Desenvolvido com MongoDB, API em Python e frontend em React. Focada em proteção de dados e integridade das informações, oferece soluções avançadas para segurança digital</td><td align="right">0</td></tr>
-<tr><td align="left"><a href="https://github.com/Sasharya/Projeto-Agenda">Projeto-Agenda</a></td><td align="left">Isso é um projeto de uma agenda e divisões de informações postadas por categoria além de protegida por senha. Possui database feito com Firestore e uma agenda interativa</td><td align="right">0</td></tr>
-</tbody>
-</table>
+| Project | About | ★ |
+|:---|:---|---:|
+| [Sorik](#) | Plataforma de gestão clínica para centralização de processos, pacientes, prontuários, agendamentos e informações administrativas, com foco em eficiência e segurança dos dados. | — |
+| [Doctor Help](#) | Plataforma desenvolvida para orientar estudantes e profissionais recém-formados em Medicina sobre carreira e próximos passos profissionais. | — |
+| [SG Finance PF](#) | Aplicação Web e PWA para gestão financeira pessoal, organização de movimentações e controle das finanças. | — |
 
 ### `~ $ cat stack.txt`
 
 ```text
-python      ████████████████████  95%
-dart        █                      2%
-c++         █                      1%
+python      ████████████████████
+sql         ███████████████
+java        █████████████
+javascript  ███████████
+php         ██████████
+
+frameworks  Django · Spring · Node.js
+database    MySQL · PostgreSQL · MongoDB
+security    Authentication · Authorization
+            Vulnerability Analysis
+            Information Security
 ```
 
 ### `~ $ ls -t projects | head -5`
 
 ```text
-2024-10-23  Lockdown
-2024-09-25  Lais-Schmidt
-2024-04-12  Projeto-Agenda
+Sorik          Clinical Management Platform
+Doctor Help    Medical Career Guidance Platform
+SG Finance PF  Personal Finance Management
 ```
 
 ### `~ $ stats`
@@ -41,8 +48,20 @@ followers      4
 contributions  5 (last 12 months)
 ```
 
+### `~ $ focus`
+
+```text
+[+] Cybersecurity
+[+] Information Security
+[+] Vulnerability Analysis
+[+] Secure Software Development
+[+] Backend Development
+[+] Database Management
+[+] Data Protection
+```
+
 ### `~ $ contact`
 
-<a href="https://github.com/sasharya">GitHub</a> · <a href="https://www.linkedin.com/in/laisschmidt/">Website</a>
+[GitHub](https://github.com/Sasharya) · [LinkedIn](https://www.linkedin.com/in/laisschmidt/)
 
-<sub>Plain Terminal · every line is real data · made with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub>
+<sub>Plain Terminal · Cybersecurity & Software Development · made with GitSkins</sub>
